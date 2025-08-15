@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+chromadb
+sentence-transformers
+transformers
+torch
+langgraph
+python-dotenv
+
+datasets 
+chromadb 
+transformers 
+torch 
+numpy
+bert_score
